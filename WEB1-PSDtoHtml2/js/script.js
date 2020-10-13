@@ -4,10 +4,10 @@ const ventanaModal = document.getElementsByClassName("modal");
 //Este proceso llama al boton para abrir el modal del peronaje Nissa.
 const boton = document.getElementsByClassName("botton");
 
-//cierra la ventana de Nissa.
+//Botton de cierre de ventana modal 
 const cierre = document.getElementsByClassName("cerrar")[0];
 
-// Se oculta la ventana modal desde JS
+// Se oculta la ventana modal desde JS 
 ventanaModal[0].classList.add('ocultar');
 
 //Muesta el Modal
