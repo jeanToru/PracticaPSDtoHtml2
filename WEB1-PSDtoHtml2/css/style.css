@@ -103,6 +103,22 @@ ul {
     padding: 28px 82px 28px 82px;
 }
 
+.botton {
+    border: 0;
+    width: 293px;
+    height: 70px;
+    margin-top: 50px;
+    background-color: #eb7d4b;
+    border-radius: 5px;
+    border-bottom: 5px solid #c86a40;
+    /* font-size: 18px; */
+    color: #f7f3ea;
+    text-transform: uppercase;
+    background-color: #eb7d4b;
+    border-bottom: 5px solid #c86a40;
+}
+
+
 /* Segundo bloque */
 
 .spaces{
